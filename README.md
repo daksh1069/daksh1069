@@ -78,6 +78,10 @@
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://camo.githubusercontent.com/10c1823abc6e7a9c46b9b03a0ddaece19a966279f20a10f8c32700a21997d1b7/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d64616b736831303639267468656d653d6769746875625f6461726b" alt="GitHub Profile Summary" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daksh1069&theme=github-compact&hide_border=true" height="300" />
 </p>
 
