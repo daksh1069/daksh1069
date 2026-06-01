@@ -2,14 +2,14 @@
   <img src="https://avatars.githubusercontent.com/u/42321349?v=4" alt="Daksh Kumar" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Daksh 👋</h1>
+<h1 align="center">Hi, I'm Daksh</h1>
 
 <p align="center">
   <strong>MS in Financial Mathematics @ NC State | CFA L1 Candidate</strong><br/>
   Bridging the gap between advanced AI engineering and quantitative finance
   <br/><br/>
-  <a href="mailto:dakshdhull@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/daksh1069/">💼 LinkedIn</a> •
+  <a href="mailto:dakshdhull@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/daksh1069/">LinkedIn</a> •
   📍 Raleigh, North Carolina
 </p>
 
