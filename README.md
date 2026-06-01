@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 - **Quantitative Research** utilizing time series analysis and financial forecasting
 - **Hybrid Portfolio Optimization** frameworks combining Deep Learning with MPT
@@ -28,33 +28,33 @@
 
 ---
 
-## 🔬 Selected Projects
+## Selected Projects
 
-**📈 Hybrid Deep Learning Portfolio Optimization** • *Apr 2024 - Dec 2024*
+**Hybrid Deep Learning Portfolio Optimization** • *Apr 2024 - Dec 2024*
 - **Performance:** Achieved Sharpe ratio of **1.9867 (DMLP+MSAD)** and **2.0346 (Transformer+VaR)**.
 - **Impact:** Realized average risk-adjusted return increase of **5-30%** over traditional models against NIFTY-100/Sensex benchmarks.
 - **Tech:** Python, CUDA, Keras, Transformer Models (MHAT), CNN, LSTM.
 
-**🧠 BCI Electrode Optimization (EEG Signal)** • *Nov 2021 - Mar 2022*
+**BCI Electrode Optimization (EEG Signal)** • *Nov 2021 - Mar 2022*
 - **Innovation:** Applied Particle Swarm Optimization (PSO) and Composite-Kernel SVM to motor imagery tasks.
 - **Efficiency:** Achieved **45% reduction** in required electrodes (120 to 67) while maintaining accuracy.
 - **Quality:** Improved EEG signal differentiability by **25%** using CSP/Stationary CSP techniques.
 
-**📉 CPI Forecasting & Analysis** • *Oct 2021 - Jan 2022*
+**CPI Forecasting & Analysis** • *Oct 2021 - Jan 2022*
 - **Analysis:** Forecasted CPI inflation rates based on unemployment, Gilt rates, and ROI using statistical ML models.
 - **Outcome:** Comparative analysis of model performance for macro-economic forecasting.
 
 ---
 
-## 💼 Experience Highlights
+## Experience Highlights
 
-**🏢 CBCatalyst** • *Founding AI Engineer* • *Mar 2025 - Jan 2026*
+**CBCatalyst** • *Founding AI Engineer* • *Mar 2025 - Jan 2026*
 - Built multimodal rec engine (CLIP/BART/GPT-2) → **35% Top-10 recall** & **50% CTR boost**
 - Scaled OCR + LLM pipelines → **38% faster company onboarding**
 - Optimized RDBMS (GIN, HNSW) → **2.6x faster search** & **3.7x faster lookups**
 - Deployed production RAG system with Milvus vector indexing & cross-encoder re-ranking
 
-**🏠 PropReturns (YC S21)** • *Founding Data Scientist & Intern* • *Jun 2022 - Mar 2024*
+**PropReturns (YC S21)** • *Founding Data Scientist & Intern* • *Jun 2022 - Mar 2024*
 - **Full-time:** Profiled 100+ clients for pitchbook customization → **25% conversion increase**
 - **Full-time:** Engineered ETL pipelines (AWS Lambda/Glue) → **3.5x cost reduction**
 - **Intern:** Setup EC2 scrapers reducing lead costs from ₹150-200 to ₹4-7 (**97% reduction**)
@@ -62,7 +62,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python • Java • C/C++ • SQL • Verilog • MATLAB
 **ML/AI:** PyTorch • TensorFlow • Keras • CLIP • Transformers • CUDA
@@ -71,7 +71,7 @@
 
 ---
 
-## 🎓 Education
+## Education
 
 **MS in Financial Mathematics**
 *North Carolina State University* • *Jan 2026 - Present*
@@ -84,7 +84,7 @@
 
 ---
 
-## 🏆 Recent Wins
+## Recent Achievements
 
 - 📈 **50% CTR boost** via multi-modal recommendation engine (CBCatalyst)
 - ⚡ **97% cost reduction** in lead generation via serverless scrapers (PropReturns)
@@ -93,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh1069&theme=github_dark" alt="GitHub Profile Details" />
@@ -105,7 +105,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always excited to discuss Quant Finance, AI, or building scalable ML systems.
 
