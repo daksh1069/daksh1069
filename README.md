@@ -2,124 +2,112 @@
   <img src="https://avatars.githubusercontent.com/u/42321349?v=4" alt="Daksh Kumar" width="120" height="120" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Hi, I'm Daksh</h1>
+<h1 align="center">Daksh Kumar</h1>
 
 <p align="center">
-  <strong>MS in Financial Mathematics @ NC State | CFA L1 Candidate</strong><br/>
-  Bridging the gap between advanced AI engineering and quantitative finance
-  <br/><br/>
-  <a href="mailto:dakshdhull@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/daksh1069/">LinkedIn</a> •
-  📍 Raleigh, North Carolina
+  <strong>MS in Financial Mathematics @ NC State &nbsp;|&nbsp; CFA Level I Candidate</strong><br/>
+  Quantitative research and machine learning at the intersection of AI engineering and finance.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daksh1069&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="mailto:dakshdhull@gmail.com">Email</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/daksh1069/">LinkedIn</a> &nbsp;&middot;&nbsp;
+  Raleigh, North Carolina
 </p>
 
 ---
 
-## What I'm Currently Building
+## About
 
-- **Quantitative Research** utilizing time series analysis and financial forecasting
-- **Hybrid Portfolio Optimization** frameworks combining Deep Learning with MPT
-- **Advanced Data Modeling** for real estate and supply chain industries
-- **High-performance ML pipelines** aimed at data-driven financial decision-making
+MS Financial Mathematics student at NC State working on quantitative research, derivatives, and machine learning for financial decision-making. Previously a founding engineer at two startups, building production ML and data systems. Current focus areas: leveraged-ETF hedging, volatility modeling, and deep-learning-driven portfolio optimization.
 
 ---
 
 ## Selected Projects
 
-**Hybrid Deep Learning Portfolio Optimization** • *Apr 2024 - Dec 2024*
-- **Performance:** Achieved Sharpe ratio of **1.9867 (DMLP+MSAD)** and **2.0346 (Transformer+VaR)**.
-- **Impact:** Realized average risk-adjusted return increase of **5-30%** over traditional models against NIFTY-100/Sensex benchmarks.
-- **Tech:** Python, CUDA, Keras, Transformer Models (MHAT), CNN, LSTM.
+### Optimal Hedging of Leveraged ETF Positions (Convexity Protection) — NC State
+*May 2026 – Present*
+- Python backtesting engine for a short-LETF + long-call "convexity protection" strategy on Tesla's 2x leveraged ETF (TSLL), harvesting structural volatility decay while capping tail risk.
+- Built the TSLL/TSLA options data pipeline (Bloomberg Terminal, Databento; OpenFIGI contract decoding; 80–130% moneyness, 15–180 DTE).
+- Validated decay via the Avellaneda–Zhang decomposition; the 10%-OTM hedge cut maximum drawdown from -79.6% (naked short) to -23.5%, with a Sharpe of 0.69.
 
-**BCI Electrode Optimization (EEG Signal)** • *Nov 2021 - Mar 2022*
-- **Innovation:** Applied Particle Swarm Optimization (PSO) and Composite-Kernel SVM to motor imagery tasks.
-- **Efficiency:** Achieved **45% reduction** in required electrodes (120 to 67) while maintaining accuracy.
-- **Quality:** Improved EEG signal differentiability by **25%** using CSP/Stationary CSP techniques.
+### Calibration and Hedging of Local, Stochastic, and Hybrid Volatility Models — NC State
+*Jan 2026 – May 2026*
+- Unified calibration and hedging framework for Local (Dupire), Stochastic (Heston), and Stochastic-Local Volatility models on 5,000+ SPX option contracts.
+- Arbitrage-free SVI volatility surface (RMSE 2.47%); finite-difference PDE solver for the Dupire model; ~15% lower pricing error in deep out-of-the-money strikes and a 12% reduction in delta-hedging P&L leakage.
 
-**CPI Forecasting & Analysis** • *Oct 2021 - Jan 2022*
-- **Analysis:** Forecasted CPI inflation rates based on unemployment, Gilt rates, and ROI using statistical ML models.
-- **Outcome:** Comparative analysis of model performance for macro-economic forecasting.
+### Hybrid Deep Learning Portfolio Optimization — Jawaharlal Nehru University
+*Apr 2024 – Dec 2024*
+- Hybrid prediction-driven framework combining DMLP, CNN, and Multi-Head Attention Transformer models with Mean-Variance, MSAD, VaR, and CVaR risk metrics on NIFTY-200 data.
+- Achieved Sharpe ratios of 1.9867 (DMLP+MSAD) and 2.0346 (Transformer+VaR), with 5–30% higher risk-adjusted returns than traditional models against NIFTY 50 / Sensex benchmarks.
+- Co-authored a research paper currently under review at Expert Systems with Applications.
 
----
-
-## Experience Highlights
-
-**CBCatalyst** • *Founding AI Engineer* • *Mar 2025 - Jan 2026*
-- Built multimodal rec engine (CLIP/BART/GPT-2) → **35% Top-10 recall** & **50% CTR boost**
-- Scaled OCR + LLM pipelines → **38% faster company onboarding**
-- Optimized RDBMS (GIN, HNSW) → **2.6x faster search** & **3.7x faster lookups**
-- Deployed production RAG system with Milvus vector indexing & cross-encoder re-ranking
-
-**PropReturns (YC S21)** • *Founding Data Scientist & Intern* • *Jun 2022 - Mar 2024*
-- **Full-time:** Profiled 100+ clients for pitchbook customization → **25% conversion increase**
-- **Full-time:** Engineered ETL pipelines (AWS Lambda/Glue) → **3.5x cost reduction**
-- **Intern:** Setup EC2 scrapers reducing lead costs from ₹150-200 to ₹4-7 (**97% reduction**)
-- **Product:** Shipped PropPulse SaaS serving **500+ MAU** with 1M+ real-time transactions
+### Additional Projects
+- **BCI Electrode Optimization (EEG):** Particle Swarm Optimization with a composite-kernel SVM on motor-imagery tasks; 45% fewer electrodes (120 → 67) with maintained accuracy and 25% better signal differentiability via CSP / Stationary-CSP.
+- **CPI Forecasting & Analysis:** Forecast CPI inflation from unemployment, gilt rates, and ROI using statistical ML models, with comparative model evaluation.
 
 ---
 
-## Tech Stack
+## Experience
 
-**Languages:** Python • Java • C/C++ • SQL • Verilog • MATLAB
-**ML/AI:** PyTorch • TensorFlow • Keras • CLIP • Transformers • CUDA
-**Data:** PostgreSQL • AWS (Lambda, Glue) • Docker • Milvus • MongoDB
-**Specialties:** Quant Research • RAG Systems • Financial Forecasting • Optimization
+### CBCatalyst — Founding AI Engineer
+*Mar 2025 – Jan 2026*
+- Built a multi-modal recommendation engine (CLIP, BART, GPT-2), improving Top-10 recall by 35% and CTR by 50%.
+- Pioneered OCR and LLM-powered data pipelines, accelerating company onboarding by 38%.
+- Optimized RDBMS performance via indexing (GIN, HNSW), achieving 2.6x faster search and 3.7x faster lookups.
+- Deployed a production RAG system with Milvus vector indexing and cross-encoder re-ranking.
+
+### PropReturns (YC S21) — Founding Data Science Engineer
+*Jun 2022 – Mar 2024*
+- Profiled 100+ clients for pitchbook customization, increasing conversion by 25%.
+- Engineered serverless ETL pipelines (AWS Lambda, Glue), reducing data-processing costs 3.5x.
+- Built serverless scrapers that cut lead-acquisition cost from ₹150–200 to ₹4–7 (~97% reduction).
+- Shipped PropPulse, a SaaS analytics product serving 500+ monthly active users across 1M+ real-time transactions.
+
+---
+
+## Technical Skills
+
+- **Languages:** Python, Java, C/C++, SQL, MATLAB, Verilog
+- **ML / AI:** PyTorch, TensorFlow, Keras, Transformers, CLIP, CUDA
+- **Quant / Data:** NumPy, SciPy, pandas, Bloomberg Terminal, Databento
+- **Infrastructure:** PostgreSQL, MongoDB, AWS (Lambda, Glue, EC2), Docker, Milvus
 
 ---
 
 ## Education
 
-**MS in Financial Mathematics**
-*North Carolina State University* • *Jan 2026 - Present*
-- **Coursework:** Linear Matrix & Transformation, Linear Algebra, Advanced Math for Engineers, Seminar in Financial Math
+**MS, Financial Mathematics** — North Carolina State University · *Jan 2026 – Present*
+Coursework: Numerical Methods, Linear Algebra, Advanced Mathematics for Engineers and Scientists, Financial Market Operations.
 
-**MS Management + BTech ECE**
-*Jawaharlal Nehru University* • *Aug 2018 - July 2023*
-- **Dissertation:** Prediction-Based Portfolio Optimization Models Using Deep Neural Networks
-- **Rank:** 4/45 (BTech) • **GPA:** 7.38/9
+**MS, Management & B.Tech, Electronics & Communication Engineering** — Jawaharlal Nehru University · *Aug 2018 – Jul 2023*
+Dissertation: Prediction-Based Portfolio Optimization Using Deep Neural Networks · B.Tech GPA: 3.64/4.0.
 
 ---
 
-## Recent Achievements
+## GitHub Stats
 
-- 📈 **50% CTR boost** via multi-modal recommendation engine (CBCatalyst)
-- ⚡ **97% cost reduction** in lead generation via serverless scrapers (PropReturns)
-- 🧠 **Sharpe Ratio 2.03** achieved via Transformer+VaR portfolio optimization
-- 📊 **45% hardware reduction** in BCI/EEG electrode requirements
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daksh1069&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daksh1069&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
----
-
-## GitHub Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh1069&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh1069&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daksh1069&theme=github-compact&hide_border=true" height="300" />
-</p>
-
----
-
-## Let's Connect!
-
-I'm always excited to discuss Quant Finance, AI, or building scalable ML systems.
-
-<p align="center">
-  <a href="mailto:dakshdhull@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/daksh1069/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daksh1069&theme=github-compact&hide_border=true" height="300" alt="Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Leveraging advanced technologies for optimized, data-driven decision-making 🤖</em>
+  Open to conversations on quantitative finance, machine learning, and scalable ML systems.<br/>
+  <a href="mailto:dakshdhull@gmail.com">dakshdhull@gmail.com</a> &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/daksh1069/">LinkedIn</a>
 </p>
