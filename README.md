@@ -78,6 +78,7 @@ MS Financial Mathematics student at NC State working on quantitative research, d
 ## Education
 
 **MS, Financial Mathematics** — North Carolina State University · *Jan 2026 – Present* · GPA: 3.66/4.0
+
 Coursework: Numerical Methods, Linear Algebra, Advanced Mathematics for Engineers and Scientists, Financial Market Operations.
 Present Coursework: Options and Derivative Pricing, Probability, and Stochastic for Finance.
 
