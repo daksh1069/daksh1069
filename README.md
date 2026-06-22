@@ -44,7 +44,7 @@ MS Financial Mathematics student at NC State working on quantitative research, d
 
 ### Additional Projects
 - **BCI Electrode Optimization (EEG):** Particle Swarm Optimization with a composite-kernel SVM on motor-imagery tasks; 45% fewer electrodes (120 to 67) with maintained accuracy and 25% better signal differentiability via CSP / Stationary-CSP.
-- **CPI Forecasting & Analysis:** Forecast UK's CPI inflation from unemployment, guild rates, and ROI using statistical and ML models, with comparative model evaluation.
+- **CPI Forecasting & Analysis:** Forecast CPI inflation from unemployment, gilt rates, and ROI using statistical ML models, with comparative model evaluation.
 
 ---
 
@@ -79,7 +79,8 @@ MS Financial Mathematics student at NC State working on quantitative research, d
 
 **MS, Financial Mathematics** — North Carolina State University · *Jan 2026 – Present* · GPA: 3.66/4.0
 
-Coursework: Numerical Methods, Linear Algebra, Advanced Mathematics for Engineers and Scientists, Financial Market Operations.
+Completed Coursework: Numerical Methods, Linear Algebra, Advanced Mathematics for Engineers and Scientists, Financial Market Operations.
+
 Present Coursework: Options and Derivative Pricing, Probability, and Stochastic for Finance.
 
 **MS, Management & B.Tech, Electronics & Communication Engineering** — Jawaharlal Nehru University · *Aug 2018 – Jul 2023*
