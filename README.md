@@ -27,9 +27,9 @@ MS Financial Mathematics student at NC State working on quantitative research, d
 
 ### Optimal Hedging of Leveraged ETF Positions (Convexity Protection) — NC State
 *May 2026 – Present*
-- Python backtesting engine for a short-LETF + long-call "convexity protection" strategy on Tesla's 2x leveraged ETF (TSLL), harvesting structural volatility decay while capping tail risk.
-- Built the TSLL/TSLA options data pipeline (Bloomberg Terminal, Databento; OpenFIGI contract decoding; 80–130% moneyness, 15–180 DTE).
-- Validated decay via the Avellaneda–Zhang decomposition; the 10%-OTM hedge cut maximum drawdown from -79.6% (naked short) to -23.5%, with a Sharpe of 0.69.
+- Multi-tranche hedging engine on Tesla's 2x leveraged ETF (TSLL) — short the LETF, long ATM calls, short OTM puts (collar) — harvesting structural volatility decay with maximum drawdown capped ex ante by a closed-form, model-free bound of 15.0%.
+- The bound derives from no-arbitrage worst-case loss limits on each position, valid continuously rather than only at expiry; the realized equity path never breached it in-sample, out-of-sample, or across seven risk-limit configurations (960 trading days each).
+- Delivered +15.7% CAGR (Sharpe 0.90, -12.3% max drawdown, Calmar 1.28) vs. -81% max drawdown for the unhedged short; built the 1M+-row TSLA/TSLL options dataset (2020–2026) via a Bloomberg (BDH) + OpenFIGI pipeline.
 
 ### Variance Risk Premium & Variance-Swap Replication (SPX) — Independent
 *Jun 2026*
@@ -96,7 +96,7 @@ B.Tech GPA: 3.64/4.0.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daksh1069&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=daksh1069&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
